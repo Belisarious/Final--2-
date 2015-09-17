@@ -1,0 +1,5 @@
+C:\Users\Tyler Clark\Documents\Visual Studio 2012\Projects\Final\Final\bin\Final.dll
+C:\Users\Tyler Clark\Documents\Visual Studio 2012\Projects\Final\Final\bin\Final.pdb
+C:\Users\Tyler Clark\Documents\Visual Studio 2012\Projects\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\Tyler Clark\Documents\Visual Studio 2012\Projects\Final\Final\obj\Debug\Final.dll
+C:\Users\Tyler Clark\Documents\Visual Studio 2012\Projects\Final\Final\obj\Debug\Final.pdb
